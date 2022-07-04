@@ -59,4 +59,9 @@ body {
   font-size: 2rem;
   font-weight: bold;
   background-color: #e9ffdb;
+  padding: 2rem 0;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
 }
