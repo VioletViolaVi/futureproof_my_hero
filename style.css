@@ -1,0 +1,62 @@
+/**************************************************** custom default */
+@import url('https://fonts.googleapis.com/css2?family=Sue+Ellen+Francisco&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Sue Ellen Francisco', Arial, Helvetica, sans-serif;
+  list-style: none;
+  color: #1d2951;
+}
+
+body {
+  cursor: default;
+  background-color: #fffafa;
+  text-align: center;
+}
+
+/**************************************************** title */
+#mainTitle {
+  font-size: 3rem;
+}
+
+/**************************************************** content border */
+#songAndImgBorder {
+  display: grid;
+  grid-template-columns: auto auto;
+  justify-content: center;
+  align-items: center;
+  justify-items: center;
+  align-content: center;
+  gap: 1rem 2rem;
+}
+
+/**************************************************** img */
+#titansImg {
+  width: 21rem;
+  height: 21rem;
+  border: 0.5rem solid #98fb98;
+  border-radius: 12rem;
+}
+
+/**************************************************** lyrics */
+.lyrics h2 {
+  font-size: 2.5rem;
+}
+
+.lyrics ul li {
+  font-size: 2rem;
+  font-style: italic;
+}
+
+.lyrics h3 {
+  font-size: 2.5rem;
+}
+
+/**************************************************** footer */
+.footer {
+  font-size: 2rem;
+  font-weight: bold;
+  background-color: #e9ffdb;
+}
