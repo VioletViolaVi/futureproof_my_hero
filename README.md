@@ -2,15 +2,15 @@
 
 This project is based on creating a website showcasing fictional heros. The project uses:
 
-1. HTML5
+- HTML5
 
    - To create the website's basic structure
 
-2. CSS3
+- CSS3
 
    - To add style to the website
 
-3. Google Fonts
+- Google Fonts
 
    - To give the font a custom style
 
